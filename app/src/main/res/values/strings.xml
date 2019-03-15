@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ung Dung Danh Ba Lan02</string>
+    <string name="input_name">Input Name</string>
+    <string name="input_number">Input Number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="call">Call</string>
+    <string name="send_message">Send Message</string>
+    <string name="do_you_want_to_call_or_send_message">Do you want to Call or send Message?</string>
+</resources>
